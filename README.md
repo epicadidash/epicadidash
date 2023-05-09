@@ -213,6 +213,6 @@ npx epicadidash
 ```
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=epicadidash)](https://git.io/streak-stats)
 <br>
   
