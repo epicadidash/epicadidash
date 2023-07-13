@@ -212,7 +212,7 @@ Machine Learning 🤖
 npx epicadidash
 ```
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicadidash&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=epicadidash)](https://git.io/streak-stats)
 <br>
   
