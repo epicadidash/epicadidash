@@ -28,8 +28,7 @@ Im Adwait Dash(epicadidash)
 <br>
 <p align="center" style="margin-top:10px">
 <strong>you are Currently on My Github Profile</strong>
-<br>
-Directly connect with me here : <br>
+<
 
 
 </p>
