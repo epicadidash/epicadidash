@@ -44,26 +44,40 @@ Im Adwait Dash(epicadidash)
 </div>
 
 
-<div align="center"  style="margin-top:20px; ">
-<h2> Small Introduction 
-</h2>
+<div align="center" style="margin-top:20px;">
+<h2>Small Introduction</h2>
+
 <h4>
-Im a <b>Fullstack Developer 👨‍💻</b> With priority to MERN stack .<br> I ❤️ the <b>Internet</b> and advoucate to open source and take part in  online events including . <br> <b>Google Developers Students Club ⭐</b> , <b>MLH 😘</b>, <b>Github Students😊</b> , <b>EddieHub 😁</b> <br>and many more<br> i love collaborating with people and work on cool projects <br>
-my future goal is to work @ <b>Nasa</b> as an SWE . <br> because i love all things space related 🚀🧑‍🚀 . im open to Work on any new technologies that appear on the <b>Internet</b>
+I am an <b>Independent Systems & Machine Learning Engineer</b> with 8+ years of experience building scalable systems,
+distributed compute architectures, and intelligent ML-driven platforms.<br><br>
+
+I enjoy designing technology that <b>thinks, learns and decides</b> — solving complex real-world engineering challenges with
+first-principles thinking and deep technical execution. <br><br>
+
+Previously, I founded and engineered multiple early-stage startup products across <b>social systems</b>,
+<b>financial infrastructure</b> and <b>AI-based forecasting platforms</b> (all now closed). These experiences strengthened my ability to
+architect products from 0 → 1 with clarity, speed and ownership.<br><br>
+
+I actively work on <b>distributed systems, real-time compute pipelines, backend performance engineering,
+and machine learning systems</b>. I also enjoy <b>UI/UX & frontend interaction engineering</b> when building complete end-to-end platforms.
 </h4>
-<div>
-
-<br>
-
-
-<h3 align="left" style="margin-top:20px;margin-bottom:20px; ">About me 🤔</h3>
-<div align="left">
-  &bullet;&nbsp;I develop websites and applications.<i> If you want me to develop something , i want 🍪</i><br>
-  &bullet;&nbsp;Open source contributor : <i> Happy to contribute and add value to community.</i><br>
-  &bullet;&nbsp;Internet Activist: <i> Fight for freedom of information and freedom to code . </i><br>
 </div>
 
 <br>
+
+<h3 align="left" style="margin-top:20px;margin-bottom:20px;">About Me 🤔</h3>
+
+<div align="left">
+&bullet;&nbsp; Systems engineering, distributed compute & large-scale architecture<br>
+&bullet;&nbsp; ML pipeline development, data modeling & intelligent reasoning systems<br>
+&bullet;&nbsp; Built and led 3 early-stage tech products across multiple domains (Closed/Discontinued)<br>
+&bullet;&nbsp; Independent mentor for engineering talent (20+ mentees)<br>
+&bullet;&nbsp; Passionate about open-source, research, and frontier engineering problems<br>
+&bullet;&nbsp; Always open to collaboration on deep-technical challenges and real-world system design<br>
+</div>
+
+<br>
+
 
 ### Motto in life : 
 > #  Programming is Magical 🪄 , its upto us to do good with it 🌎 .
